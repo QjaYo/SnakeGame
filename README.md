@@ -18,4 +18,18 @@ fileStream헤더를 이용해 txt 파일로 사용자의 최고기록 리스트�
 ### 실행
 exe파일을 실행하면 플레이할 수 있다. (windows)
 
-<img width="674" height="720" alt="image" src="https://github.com/user-attachments/assets/2f35cb53-8717-4a1f-9e1a-db0e1ca5f040" />
+### 메뉴
+![Image](https://github.com/user-attachments/assets/ce496227-a7bd-47e8-98d5-1567ba074967)
+
+### 게임플레이/멈춤
+![Image](https://github.com/user-attachments/assets/0480da52-754c-4c37-829b-da37540c3265)
+
+### 게임설명
+![Image](https://github.com/user-attachments/assets/b301d0bf-32b3-495a-8315-dc76430cd8de)
+
+### 게임점수기록
+![Image](https://github.com/user-attachments/assets/f1e23fc2-57e6-44ba-b0f8-284c2e1e2f5d)
+![Image](https://github.com/user-attachments/assets/9cb31103-6f93-482a-b184-780393fe85f3)
+
+### 종료
+![Image](https://github.com/user-attachments/assets/c9c83a79-ad61-4751-b87c-ed81b07fb52a)
